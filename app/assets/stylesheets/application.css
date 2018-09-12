@@ -13,39 +13,3 @@
  *= require_tree .
  *= require_self
  */
-body {
-  background-color: pink;
-  color: white;
-  font-family: sans-serif;
-  font-size: lighter;
-
-}
-.ask {
-  align-content: center;
-  align-items: center;
-  margin: auto;
-  width: 50%;
-  border: 5px solid hotpink;
-  padding: 10px;
-}
-
-
-.button-girl {
-  border: 1px solid hotpink;
-  color: white;
-  opacity: .8;
-}
-.button-girl:hover {
-  background-color: pink;
-  opacity: 1;
-
-}
-
-.answer {
-  align-content: center;
-  align-items: center;
-  margin: auto;
-  width: 50%;
-  border: 5px solid hotpink;
-  padding: 10px;
-}
